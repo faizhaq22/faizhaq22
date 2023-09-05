@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Ni'matul Haq</h1>
 <h3 align="center">A passionate Data Analytics from Indonesia</h3>
-<img align="right" widht="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FujjawalD07%2FujjawalD07&psig=AOvVaw3qtWTwBBZHLLH46WSa6jsQ&ust=1694003984426000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjpiZjfvpOBAxW9mmMGHXbFCpEQjRx6BAgAEAw">
+<img align="right" widht="400 src="<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
+<br><br>">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizhaq22&label=Profile%20views&color=0e75b6&style=flat" alt="faizhaq22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizhaq22" alt="faizhaq22" /></a> </p>
